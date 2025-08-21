@@ -31,22 +31,14 @@ UML para modelagem das entidades
 ▶️ Como Executar
 
 Clone este repositório:
-
-git clone https://github.com/seu-usuario/prova2-loja.git
-cd prova2-loja
-
-
 Compile as classes Java:
 
 javac *.java
 
-
 Execute a classe principal (caso esteja definida no Interface.java ou Venda.java):
-
 java NomeDaClassePrincipal
 
 📌 Objetivo
-
 O objetivo deste projeto é praticar conceitos de Programação Orientada a Objetos em Java, incluindo:
 
 Criação de classes e atributos.
