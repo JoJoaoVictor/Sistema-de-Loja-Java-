@@ -1,10 +1,10 @@
-Sistema de Loja (Java)
+### Sistema de Loja (Java)
 <br/>
 
 Este repositório apresenta um sistema orientado a objetos em Java, desenvolvido como atividade prática de programação.
 O projeto simula uma loja com cadastro de clientes, funcionários, produtos e controle de vendas, além de um diagrama UML para representação das entidades e seus relacionamentos.
 
-📂 Estrutura do Projeto
+### 📂 Estrutura do Projeto
 
 Cliente.java → Classe que representa o cliente, com atributos como nome, telefone e endereço.
 
@@ -20,7 +20,7 @@ Interface.java → Interface principal para interação com o sistema (possivelm
 
 Diagrama de Loja.pdf → Diagrama UML contendo o mapeamento das entidades e seus relacionamentos.
 
-🚀 Tecnologias Utilizadas
+###🚀 Tecnologias Utilizadas
 
 Java
 
@@ -38,7 +38,7 @@ javac *.java
 Execute a classe principal (caso esteja definida no Interface.java ou Venda.java):
 java NomeDaClassePrincipal
 
-📌 Objetivo
+### 📌 Objetivo
 O objetivo deste projeto é praticar conceitos de Programação Orientada a Objetos em Java, incluindo:
 
 Criação de classes e atributos.
