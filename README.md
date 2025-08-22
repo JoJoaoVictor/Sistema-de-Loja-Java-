@@ -20,7 +20,7 @@ Interface.java → Interface principal para interação com o sistema (possivelm
 
 Diagrama de Loja.pdf → Diagrama UML contendo o mapeamento das entidades e seus relacionamentos.
 
-###🚀 Tecnologias Utilizadas
+### 🚀 Tecnologias Utilizadas
 
 Java
 
