@@ -1,4 +1,4 @@
-### Sistema de Loja (Java)
+# Sistema de Loja (Java)
 ---
 <br/>
 
