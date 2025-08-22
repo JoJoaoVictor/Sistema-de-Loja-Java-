@@ -1,6 +1,6 @@
 ### Sistema de Loja (Java)
 <br/>
-
+---
 Este repositório apresenta um sistema orientado a objetos em Java, desenvolvido como atividade prática de programação.
 O projeto simula uma loja com cadastro de clientes, funcionários, produtos e controle de vendas, além de um diagrama UML para representação das entidades e seus relacionamentos.
 
