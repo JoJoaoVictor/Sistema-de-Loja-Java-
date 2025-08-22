@@ -1,5 +1,5 @@
 # Sistema de Loja (Java)
----
+
 <br/>
 
 Este repositório apresenta um sistema orientado a objetos em Java, desenvolvido como atividade prática de programação.
